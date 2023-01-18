@@ -64,7 +64,7 @@ deploy 명령을 통해서 tomcat webapp 폴더 아래에 복사됩니다.
 ### Succeed set up and ready to use
 
 <br><br> 
-인덱싱이 끝나면 http://localhost:/source 로 들어가서 확인하기<br>
+인덱싱이 끝나면 http://localhost:8080/source 로 들어가서 확인하기<br>
 당연히 톰캣 켜서 들어가는 것 잊지말기
 ![image](https://user-images.githubusercontent.com/80104121/213073844-4a8e1508-8ea8-4641-88c1-e3d02fc17308.png)
 
